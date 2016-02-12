@@ -1,0 +1,5 @@
+.metadata
+*.o
+*.elf
+*.bin
+*.a
